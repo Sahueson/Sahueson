@@ -39,12 +39,12 @@ observabilidad de la calidad.
 - **Orquestación y observabilidad de QA**: componer, lanzar y visualizar runs de varios motores en un solo sitio.
 - **Pruebas sobre hardware (HIL)**: validar software embarcado en dispositivos edge reales.
 
-### 📌 Proyectos
+### 📌 Proyecto destacado
 
 - **QA Orchestration Suite** — plataforma web (React + Express) para orquestar y observar pruebas de
   QA sobre Newman, Bruno, JMeter, Playwright y Jetson/HIL. *(Privado — disponible bajo petición.)*
-- **[cypress-xtap](https://github.com/Sahueson/cypress-xtap)** — automatización de QA con Cypress.
-- **[Pruebas-Newman](https://github.com/Sahueson/Pruebas-Newman)** — colecciones de pruebas de API (Postman/Newman).
+
+> 🔧 Renovando mi portfolio público; más trabajo de QA disponible bajo petición.
 
 ---
 
